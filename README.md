@@ -1,2 +1,2 @@
 # expenses-app
-[Live demo](expensive-app.surge.sh "Clique e acesse agora!")
+[Live demo](http://expensive-app.surge.sh/ "Clique e acesse agora!")
